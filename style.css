@@ -1,0 +1,69 @@
+
+
+[class*="example"]{
+  min-height:300px;
+}
+.example-1 {
+background: url(https://images.pexels.com/photos/37001/pexels-photo.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+max-width: 100%;
+background-size: cover;
+background-position: center;
+}
+
+
+
+.example-2 {
+	background: url(http://www.failteireland.ie/FailteIreland/media/WebsiteStructure/Images/640x360_HomepageCarousel/640x360_Irelands-Ancient-East.jpg?width=640&height=360&ext=.jpg);
+	background-size: cover; 
+	background-position: center;
+}
+.example-3 {
+	background: url(http://d5qsyj6vaeh11.cloudfront.net/images/destinations/article%20images/c109_main_killarney.jpg);
+	background-size: cover; 
+	background-position: center;
+}
+.example-4 {
+	background: url(https://lh3.googleusercontent.com/RK8ldGMomR45ObnAnERY5kWXIbB7YmNxZQDdWgBhtpL2djcXxkv2ktTk6dqDbZgqrVmTrWcaUhdTKUFbQHePqnrvKhByEThVlg0hI0r0QWqmoPJK6OZXsbC--7I6YNiZ3XZ1M3YllnfTlbNTZgPuWbeiaFwuIR8XJvXVqOy55INHKyVr_b7SrG6jssgQjuoi-BcPRBEvb2_Tgsw_2ZDNFZyFNCjbE1sdc47levbTZevS6aNQPwVUqMxx1mNb3q-E_AZwvOE1w60l6UpIhphBNiI87YwrHErYVs7MKeaanjhOo7OJJnjNB9cj0A2VtCKp3EgFZI_D_fNyhdrB87yuOWd_V0TFxfaMATCRLOTRdzfOgVj-ls84VegxZgFWDumcnLbfl4RuczAaBqGplT8VSGbKtU7ZryqH6yfggU8pxArFLdZKInDPlPmseOxl48FkjOTn-9RXMXzv_SU35LGz4j7kiqEFwhL9_53kOUQ_zRcdG63iFPkqB8iY7_UKftXkjP56g6dmFLn--QhBR8Gqd4MbKxG177f8kKoXBbCzls8vdnfgOAOpkR6Ne3TcEmqgZ52jsR4a8hvBeozvuJ-ceBJCOb44kn8k61lCZaq6JTh3lsL23HPr=w934-h700-no);
+	background-size: cover;
+	background-position: center;
+}
+.example-5 {
+	background: url(https://lh3.googleusercontent.com/Ngaw8Bh-Vm5GyBtA5PneYyVPOQ7QQiW5I-WW6vPrpRDTadhQeo8Ybnoa_IbIThHsFwHH__MrK_rAe7FJ3adzon8Bp9yDEx5dj1u1nLGqCzHo_CUy9ry2uZYhJuI8m7j5A5Jdvp5ZNx7mTpGui2TtZWTqImhhF7j8OZAtIEMhDPHvZAxvL37G__Y95U5BkGuRO_Dcidcqa9OPL02Hci3XQYycFOQ781QIOmljJtcpyuWCLxUedspDbOr54QSuzXKfKetoWPKvFyouS8i7kBZ7xocodaUMDuIjIMUWSmFM5Copio8cw4QIVHnACdxpal2oP1pF2mufQmPuLQKRC-N0UP4VjHh343PMVJI1sMAvpjT9b52R7kQXUlSiIMcBLFZLwaCIckIxtQzbM7e9mqHe29wg_cGfMnvDgGbzpb_hzD7gWRyvJBlqhqbFDD2mOBFctRT7pAukLg5jIw0oODlnAfeH44XKBor3Zz4ls4QvRzgGPIVYuhLOOIUUXFKVo2XxmoHqGdRcjde9CzHMaNkaYmxG7zBMQfJaCXkyAObmfOyfEUGIb_nOj9xBxWB2UegKGbIEwEbiIJdgoDGhId8nnHYK-K8-gk43aOUxFSvzEyA0oUcZV-u3=w934-h700-no);
+	background-size: cover;
+	background-position: center;
+}
+.tab-pane {
+  padding: 10px;
+}
+
+/*modal*/
+[class*="example"]{
+  min-height: 500px;
+}
+.example-1 {
+	background-color:#59ABE3;
+}
+.example-2 {
+	background-color:#2ECC71;
+}
+.example-3 {
+	background-color: #F89406;
+}
+.example-4 {
+	background-color:#EB974E;
+}
+.modal {
+	background: white;
+	text-align: center;
+}
+.btn-lg{
+  text-align: center;
+  margin: auto;
+}
+.btn-wrap {
+	text-align: center;
+}
+
+.modal-footer {
+	text-align: center;
+}
